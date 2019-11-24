@@ -1,0 +1,5 @@
+.history
+.vscode
+*.json
+*__pycache__
+data
