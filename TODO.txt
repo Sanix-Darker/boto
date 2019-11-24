@@ -1,0 +1,4 @@
+- Construire le bot final sur cette base
+- Faire en sorte que l'appli contacte un fichier json sur mon github contenant une liste d'app et de lien encrypter vers des lien pastebin contenant des clee qui indique le OK pour faire tourner l'app ou pas.
+- Faire un dist illisible en python pour lui donner directement l'applcation et non le code source
+- Ne pas oublier de creer un autre repo pour le projet final
